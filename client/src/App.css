@@ -1,0 +1,28 @@
+* {
+  padding: 0%;
+  margin: 0;
+
+}
+
+html {
+  background-color: rgb(63, 63, 63);
+}
+
+#main {
+  display: flex;
+  justify-content: center;
+  padding-top: 20%;
+}
+
+#board {
+  height: 400px;
+  width: 900px;
+  background-color: rgb(172, 180, 255);
+}
+
+.player {
+  position: relative;
+  top: 50%;
+  left: 10%;
+  
+}
